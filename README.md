@@ -1,6 +1,7 @@
 ## Welcome to Phoenicia
 
-[![Join the chat at https://gitter.im/XPRIZE/GLEXP-Team-The-Linguaculturalists](https://badges.gitter.im/XPRIZE/GLEXP-Team-The-Linguaculturalists.svg)](https://gitter.im/XPRIZE/GLEXP-Team-The-Linguaculturalists?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Linguaculturalists/Phoenicia](https://badges.gitter.im/Linguaculturalists/Phoenicia.svg)](https://gitter.im/Linguaculturalists/Phoenicia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Phoenicia is an Android game designed to teach literacy and numeracy to children in an unguided way.
 
